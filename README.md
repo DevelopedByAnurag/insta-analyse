@@ -15,3 +15,4 @@ Here are some of the aspects that i going to Add to this
 * analyse comments To get better idea of post and have better analysis
 
 
+## Note :- This is just for educatinal pourpose and for Any commercial use or to harm someones privacy also a Declatation that the licnce does not permits Commercial use.
