@@ -21,7 +21,7 @@ Here are some of the aspects that i going to Add to this
 
 ## Gallery
 
-<img src="https://raw.githubusercontent.com/DevelopedByAnurag/insta-analyse/master/screenshot/1.PNG" width="30%"></img> <img src="https://raw.githubusercontent.com/DevelopedByAnurag/insta-analyse/master/screenshot/2.PNG" width="30%"></img> <img src="https://raw.githubusercontent.com/DevelopedByAnurag/insta-analyse/master/screenshot/3.PNG" width="30%"></img>
+<img src="https://raw.githubusercontent.com/DevelopedByAnurag/insta-analyse/master/screenshot/1.png" width="30%"></img> <img src="https://raw.githubusercontent.com/DevelopedByAnurag/insta-analyse/master/screenshot/2.PNG" width="30%"></img> <img src="https://raw.githubusercontent.com/DevelopedByAnurag/insta-analyse/master/screenshot/3.PNG" width="30%"></img>
 
 More Features and Screenshots comming soon commming soon
 
