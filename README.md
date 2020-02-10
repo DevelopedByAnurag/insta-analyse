@@ -1,6 +1,6 @@
 # Insta-Analyse
 
-A automated script that craws instagram tags page and then analyses that page
+An automated script that craws instagram tags page and then analyses that page
 
 
 ## Future Aspects 
@@ -21,7 +21,7 @@ Here are some of the aspects that i going to Add to this
 
 ## Gallery
 
-<img src="https://developedbyanurag.github.io/Hosted-images/insta-analyse/1.png" width="30%"></img> <img src="https://developedbyanurag.github.io/Hosted-images/insta-analyse/2.png" width="30%"></img> <img src="https://developedbyanurag.github.io/Hosted-images/insta-analyse/3.png" width="30%"></img>
+<img src="https://git-images.myedukit.com/insta-analyse/1.png" width="30%"></img> <img src="https://git-images.myedukit.com/insta-analyse/2.png" width="30%"></img> <img src="https://git-images.myedukit.com/insta-analyse/3.png" width="30%"></img>
 
 More Features and Screenshots comming soon commming soon
 
