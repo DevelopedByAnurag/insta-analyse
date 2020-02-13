@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import random
 tag = input()
 url = "https://www.instagram.com/tags/"+tag+"/"
-url
+print(url)
 BURL = 'https://www.instagram.com/accounts/login/'
 LURL = BURL + 'ajax/'
 headers_list = [
@@ -48,7 +48,7 @@ login_data = {'username': USERNAME, 'password': PASSWD}
 session.headers.update({'X-CSRFToken': csrf})
 login = session.post(LURL, data=login_data, allow_redirects=True)
 session.headers={"Cookie":login.headers['Set-Cookie']}
-login.content
+print(login.content)
 # if True :- b'{"authenticated": true, "user": true, "userId": "*******", "oneTapPrompt": false, "status": "ok"}'
 r = session.get(url)
 soup = BeautifulSoup(r.text, 'lxml')
@@ -77,9 +77,9 @@ for post in data['entry_data']['TagPage'][0]['graphql']['hashtag']['edge_hashtag
     csvFile.close()
     dataset = pd.read_csv('insta.csv')
 mlik = dataset['LIKES'].max()
-mlik
+print(mlik)
 mim = dataset[dataset['LIKES'] == mlik]
-mim
+print(mim)
 plt.figure(figsize=(19,10))
 sns.countplot(x = dataset['LIKES'], data=dataset)
 plt.xticks(rotation = 'horizontal')
