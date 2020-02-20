@@ -1,12 +1,12 @@
 # Insta-Analyse
 
-An automated script that craws instagram tags page and then analyses that page
+An automated script that crawls instagram according to tags and then analyses all post containing that tag.
 
 
 ## Future Aspects 
 
 
-Here are some of the aspects that i going to Add to this
+Here is a list of just few aspects that I will Add to this:
 
 * Also add crawling of twitter and facebook this will provide Us a larger dataset to analyse
 * NLTK :- this will provide advance Analysis
@@ -21,9 +21,10 @@ Here are some of the aspects that i going to Add to this
 
 ## Gallery
 
-<img src="https://git-images.myedukit.com/insta-analyse/1.png" width="30%"></img> <img src="https://git-images.myedukit.com/insta-analyse/2.png" width="30%"></img> <img src="https://git-images.myedukit.com/insta-analyse/3.png" width="30%"></img>
+<img src="https://git-images.myedukit.com/insta-analyse/1.png" width="32%"></img><img src="https://git-images.myedukit.com/insta-analyse/2.png" width="32%"></img> <img src="https://git-images.myedukit.com/insta-analyse/3.png" width="32%"></img>
 
 More Features and Screenshots comming soon commming soon
 
-
 If you like this installer Please Share it with your Developers Freinds....
+
+**This Project was build just for learning pourpose and does not use Any official Api or anyway connected to Instagram or Facebook**
